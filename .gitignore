@@ -1,0 +1,4 @@
+__pycache__
+.pytest_cache
+downloaded_files
+*.swap
